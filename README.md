@@ -22,7 +22,7 @@
 
 ## Just a curious mind exploring tech one step at a time
 ### 🚀 Current Project
-- [Instant Data Dashboard](https://github.com/thehaudedai/Instant-Data-Dashboard)
+- None (Leanering Web Dev at the Moment)
 
 ### 🎮 Recent Projects
 - [Instant Data Cleaner](https://instant-data-cleaner.streamlit.app/)

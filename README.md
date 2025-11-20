@@ -25,6 +25,7 @@
 - [Instant Data Dashboard](https://github.com/thehaudedai/Instant-Data-Dashboard)
 
 ### 🎮 Recent Projects
+- [Instant Data Cleaner](https://instant-data-cleaner.streamlit.app/)
 - [Gravitators (Daydream Project)](https://thehaudedai.itch.io/gravitator)
 - [Remnants](https://shiba.hackclub.com/games/U09DZSC5UMA/Project%20Remnants)
   

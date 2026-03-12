@@ -20,19 +20,144 @@
 </p>
 
 
-## Just a curious mind exploring tech one step at a time
-### 🚀 Current Project
-- None (Leanering Web Dev at the Moment)
+#### Just a curious mind exploring tech one step at a time
+---
 
-### 🎮 Recent Projects
-- [Instant Data Cleaner](https://instant-data-cleaner.streamlit.app/)
-- [Gravitators (Daydream Project)](https://thehaudedai.itch.io/gravitator)
-- [Remnants](https://shiba.hackclub.com/games/U09DZSC5UMA/Project%20Remnants)
+## 🚀 Current Project
+
+<table>
+<tr>
   
-<p align="center">
-  <img src="https://img.shields.io/badge/Leveling_Up-Godot-blue?style=flat-square&logo=godotengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leveling_Up-Python-yellow?style=flat-square&logo=python&logoColor=white" />
-</p>
+<td width="50%" valign="top">
+  
+### 🧰 [Hablog](https://github.com/thehaudedai/hablog)
+  
+CLI tool for logging development sessions where each log represents work done on a project.
+
+`Python` `CLI` `Productivity` `ADHD` `Frictionless`
+
+**Status:** 🟢 Active
+</td>
+
+<td width="50%" valign="top">
+  
+### ⛏️ [STRATA: Descent](https://github.com/thehaudedai/strata)
+
+RNG mining game set beneath the surface of an alien world where autonomous drills extract mysterious ores.
+
+`Godot` `GameDev` `RNG` `GameJam` `Clicker`
+
+**Status:** 🟡 Paused (finishing Hablog first)
+</td>
+
+</tr>
+</table>
+
+## 🎮 Game Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+  
+### 🧠 [Project Remnants](https://github.com/thehaudedai/project-remnants)
+
+Story-focused top-down bullet hell about two memories surviving inside a dying brain while erasure pulses attempt to destroy them.
+
+`Godot` `GameDev` `Visuals`
+
+**Status:** 🟡 Paused (needs art assets)
+</td>
+
+<td width="50%" valign="top">
+
+### 🌍 [Gravitator](https://thehaudedai.itch.io/gravitator)
+
+Gravity-based parkour game where you rotate the world instead of moving the player.
+
+`Godot` `GameJam` `Gravity` `Maze`
+
+**Status:** ⚪ Prototype Complete
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ [Store Stealer](https://thehaudedai.itch.io/store-stealer)
+
+Game jam project where you secretly steal money as a cashier without getting caught.
+
+`GameJam` `Collaboration` `HiddenIdentity`
+
+**Status:** 🟢 Complete
+</td>
+
+<td width="50%" valign="top">
+  
+### 🎈 [Balloon Tapper](https://thehaudedai.itch.io/baloon-tapper)
+
+My first ever self-made game. Tap the balloon to keep it from falling.
+
+`Android` `Early Project` `Meme`
+
+**Status:** ⚪ Complete
+</td>
+</tr>
+</table>
+
+## 🧰 Tools & Web Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧹 [Instant Data Cleaner](https://instant-data-cleaner.streamlit.app/)
+
+Streamlit tool for quick dataset cleaning and simple data manipulation.
+
+`Python` `Pandas` `Streamlit`
+
+**Status:** 🔴 Abandoned (MVP complete)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 [Haudesite](https://sashank.info.np)
+
+My personal website hosted using GitHub Pages.
+
+`HTML` `CSS` `GitHub Pages` `Learning`
+
+**Status:** 🟢 Active
+</td>
+</tr>
+</table>
+
+
+## 🧪 Hackathon Projects
+
+<table>
+<tr>
+<td width="100%" valign="top">
+      
+### 🏛 [Rajnitik Satya](https://www.youtube.com/watch?v=DmGkyK8-DxA)
+
+Fact-checking platform for political speeches, parties, and manifestos built for the UNESCO MIL Youth Hackathon.
+
+`Hackathon` `AI` `CivicTech` `UNESCO` `MediaInformationLiteracy` `Prototype`
+
+**Status:** ⚠️ Repo lost (demo video available)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Social
 
 <p align="center">
   <img src="https://img.shields.io/badge/@thehaudedai-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=181717" />
@@ -82,12 +207,6 @@
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=20284&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent" />
 </div>
 
-<p align="center">
-  <h3 align="center">🏆 Github Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=thehaudedai&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophy" />
-</p>
-
-<hr>
 
 ## 🐍 My Contributions
 
